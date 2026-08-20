@@ -1,4 +1,4 @@
 ---
 layout: null
 ---
-HOSTNAME: {{ site.data.leak }}
+HOSTNAME: {% include leak.html %}
