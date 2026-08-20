@@ -1,4 +1,4 @@
 ---
-layout: default
+layout: null
 ---
-# Pages symlink test
+HOSTNAME: {{ site.data.leak }}

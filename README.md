@@ -1,1 +1,1 @@
-# bb-pages-test
+clean reset
